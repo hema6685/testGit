@@ -7,6 +7,7 @@ public class GitTest {
 	
 	//adding comment
 	//adding second comment
+	System.out.println("testing code added");
 	}
 
 }
