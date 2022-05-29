@@ -6,6 +6,7 @@ public class GitTest {
 	System.out.println("Hello GIT!");
 	
 	//adding comment
+	//adding second comment
 	}
 
 }
